@@ -1,29 +1,31 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
 
- Be aware that even a small syntax error here can lead to failures in output.
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
+    # Profile information
+    name: Alan Doe
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-sidebar: 안녕하세요
-    about: True  set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True  set to False if you want education in main section instead of in sidebar
-
-     Profile information
-    name: 김진
-    tagline: 피파 개꿀잼
-    avatar: profile.png  place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-     Sidebar links
-    email: syjsjin1@gmail.com
+    # Sidebar links
+    email: syjsjin@naver.comment
     phone: 010 4045 2390
-    website: syjsjin1.github.io do not add http://
-    linkedin: 김진
+    website: "http://github.com/syjsjin1"
+    linkedin: syjsjin
     github: syjsjin1
     gitlab:
     bitbucket:
-    stack-overflow:  Number/Username, e.g. 123456/alandoe
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Korean
+      - idiom: korean
         level: Native
 
       - idiom: English
@@ -33,11 +35,41 @@ sidebar: 안녕하세요
         level: little
 
     interests:
-      - item: FIFA ONLINE 4
-        link:
-
-      - item: Battleground
+      - item: Player unknown's battle grounds
         link:
 
       - item: Overwatch
         link:
+
+      - item: Fifa online 4
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+    초등학교 저학년때 아버지의 회사 일 때문에 중국을 따라갔다.
+    중국에서 국제학교를 다니면서 영어를 배우고 외국의 문화를 배워가며
+    다른 나라의 기술에도 자연스럽게 관심을 가졌다. 그러면서 한국에 다시
+    와서 초등학교 영재반과 아주대학교 영재반을 나오면서 소프트웨어를 배웠고
+    지금은 웹페이지 제작반을 마무리하며 다음은 java를 하게 된다
+
+education:
+    - tier:
+      school: maesong middle school
+      time: 2016 - 2018
+          - Bullet point
+          - Bullet point
+experiences:
+    - role: class vice-president
+      time: 2016 - 2017
+      class: middle school 1st, 2nd grade
+Game:
+    title: Game
+    intro: |
+      살면서 가장 많이 한 것 중 하나가 게임인데 그 중에서도 중1에서 중2인생을
+      쓴 오버워치와 중3 초반에서 중반을 쓴 배그와 중3 말기를 받치고 있는
+      피파가 있겠다. 다른건 몰라고 게임 할때의 집중력 만큼은 자신이 있는데
+      다른 사람이 게임을 할때 말을 시키거나 뭘 하라그러는것을 정말 싫어해
+      집중 할때 다른 사람이 방해하는것을 싫어한다
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

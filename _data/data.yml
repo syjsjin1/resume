@@ -25,34 +25,33 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: korean
         level: Native
 
-      - idiom: French
+      - idiom: english
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: chinese
+        level: little
 
     interests:
-      - item: Climbing
+      - item: fifa online 4
         link:
 
-      - item: Snowboarding
+      - item: overwatch
         link:
 
-      - item: Cooking
+      - item: battle ground
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      초등학교 저학년때 아버지의 회사 일 때문에 중국을 따라갔다.
+      중국에서 국제학교를 다니면서 영어를 배우고 외국의 문화를 배워가며
+      다른 나라의 기술에도 자연스럽게 관심을 가졌다. 그러면서 한국에 다시
+      와서 초등학교 영재반과 아주대학교 영재반을 나오면서 소프트웨어를 배웠고
+      지금은 웹페이지 제작반을 마무리하며 다음은 java를 하게 된다.
 education:
     - degree: MSc in Computer Science
       university: University of London
